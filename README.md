@@ -1,6 +1,7 @@
 **REST Assured - Swagger Petstore - OpenAPI**
 
-This repository contains tests for Petstore server - 'Store' group endpoint.
+This repository contains tests for Petstore server - 'Store' group endpoint:
+https://petstore.swagger.io/#/store
 
 This Automation Framework built using following technologies: Rest Assured, Java, Gradle, TestNG, Allure.
 
